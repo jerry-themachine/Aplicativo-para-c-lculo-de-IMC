@@ -1,1 +1,1 @@
-Esse é um projeto de uma aplicação para cálculo de IMC (Índice de Massa Corporal), e será desenvoldico com HTML5, CSS3 e Javascript puros.
+Esse é um projeto de uma aplicação para cálculo de IMC (Índice de Massa Corporal), e será desenvolvido com HTML5, CSS3 e Javascript puros.
