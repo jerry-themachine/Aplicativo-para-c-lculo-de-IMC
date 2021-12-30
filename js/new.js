@@ -3,7 +3,6 @@ let name = document.getElementById('nome');
 let res = document.getElementById('resImc');
 
 
-
 form.addEventListener('submit', function(event){
     let altura = parseFloat(document.getElementById('altura').value) / 100;
     let peso = parseFloat(document.getElementById('peso').value);
