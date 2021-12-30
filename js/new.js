@@ -1,5 +1,5 @@
 let form = document.getElementById('form');
-let name = document.getElementById('nome');
+let nome = document.getElementById('nome');
 let res = document.getElementById('resImc');
 
 
